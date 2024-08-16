@@ -2,8 +2,8 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Home from './Home'
-import Oferta from './Oferta'
-import Produto from './Produto'
+import Oferta from './Ofertas'
+import Produto from './Produtos'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
