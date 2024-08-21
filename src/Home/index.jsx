@@ -8,27 +8,43 @@ export default function Home () {
         const [produtos, setProdutos] = useState([{
             nome: "É assim que acaba",
             autor: "Colleen Hoover",
-            preco: 49.99
+            preco: 49.99,
+            imagem: "https://leitura.com.br/image/cache/products/9788501112514-228x228.jpg",
+            capa: "capa flexível",
+            editora: "Galera"
          },
          {
             nome: "Tarde Demais",
             autor: "Colleen Hoover",
-            preco: 49.99
+            preco: 49.99,
+            imagem: "https://leitura.com.br/image/cache/products/9786559813858-228x228.jpg",
+            capa: "capa flexível",
+            editora: "Galera"
          },
          {
             nome: "Confesse",
             autor: "Colleen Hoover",
-            preco: 49.99
+            preco: 49.99,
+            imagem: "https://leitura.com.br/image/cache/products/9788501109323-228x228.jpg",
+            capa: "capa flexível",
+            editora: "Galera"
          },
          {
-            nome: "Without Merit",
+            nome: "As Mil Partes do meu Coração",
             autor: "Colleen Hoover",
-            preco: 49.99
+            preco: 49.99,
+            imagem: "https://leitura.com.br/image/cache/products/9788501115744-228x228.jpg",
+            capa: "capa flexível",
+            editora: "Galera"
+
          },
          {
             nome: "O lado feio do amor",
             autor: "Colleen Hoover",
-            preco: 49.99
+            preco: 49.99,
+            imagem: "https://leitura.com.br/image/cache/products/9788501105738-228x228.jpg",
+            capa: "capa flexível",
+            editora: "Galera"
          }
         ])
     
@@ -56,7 +72,7 @@ export default function Home () {
                     <img src="https://leitura.com.br/image/cache/catalog/BANNER-VALE-PRESENTE-PNG33-1920x300.png"></img>
                 </div>
             </Carousel>
-            <h1>Lista Livros</h1>
+            <h1>Collen Hoover</h1>
             <ListarProdutos listaProdutos={produtos}/>
         </>
     )
