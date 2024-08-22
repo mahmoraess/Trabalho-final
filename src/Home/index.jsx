@@ -12,7 +12,7 @@ export default function Home () {
             imagem: "https://leitura.com.br/image/cache/products/9788501112514-228x228.jpg",
             capa: "capa flexível",
             editora: "Galera",
-            topicos: []
+            temas: ["violência doméstica", "abuso psicológico"]
          },
          {
             nome: "Tarde Demais",
@@ -21,7 +21,7 @@ export default function Home () {
             imagem: "https://leitura.com.br/image/cache/products/9786559813858-228x228.jpg",
             capa: "capa flexível",
             editora: "Galera",
-            topicos: []
+            temas: ["amor obssessivo", "financeiro"]
          },
          {
             nome: "Confesse",
@@ -30,7 +30,7 @@ export default function Home () {
             imagem: "https://leitura.com.br/image/cache/products/9788501109323-228x228.jpg",
             capa: "capa flexível",
             editora: "Galera",
-            topicos: []
+            temas: ["amor", "perda", "trauma", "superação"]
          },
          {
             nome: "As Mil Partes do meu Coração",
@@ -39,7 +39,7 @@ export default function Home () {
             imagem: "https://leitura.com.br/image/cache/products/9788501115744-228x228.jpg",
             capa: "capa flexível",
             editora: "Galera",
-            topicos: []
+            temas: ["dramas familiares", "poder da verdade"]
          },
          {
             nome: "O lado feio do amor",
@@ -48,7 +48,7 @@ export default function Home () {
             imagem: "https://leitura.com.br/image/cache/products/9788501105738-228x228.jpg",
             capa: "capa flexível",
             editora: "Galera",
-            topicos: []
+            temas: ["amor", "perda", "redenção"]
          }
         ])
     
