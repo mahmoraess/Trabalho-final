@@ -1,5 +1,7 @@
 import { useState } from "react"
 import ListarProdutos from "../components/ListarProdutos"
+import Header from "../components/Header"
+import Footer from "../components/Footer"
 
 export default function Produtos(){
     const [produtos, setProdutos] = useState ([{
@@ -140,6 +142,10 @@ export default function Produtos(){
     ])
 
     return(
+      <div>
+         <Header/>
         <ListarProdutos listaProdutos={produtos}/>
+        <Footer/>
+      </div>
     );
 }

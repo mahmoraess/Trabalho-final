@@ -1,5 +1,6 @@
 import { useState } from "react"
 import Header from "../components/Header"
+import Footer from "../components/Footer"
 import { Carousel } from 'react-responsive-carousel'
 import 'react-responsive-carousel/lib/styles/carousel.min.css'
 import ListarProdutos from "../components/ListarProdutos"
@@ -78,6 +79,7 @@ export default function Home () {
             </Carousel>
             <h1>Collen Hoover</h1>
             <ListarProdutos listaProdutos={produtos}/>
+            <Footer/>
         </>
     )
 }

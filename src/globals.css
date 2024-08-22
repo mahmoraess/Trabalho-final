@@ -2,22 +2,27 @@ header {
   display: flex; 
   align-items: center;
   width: 100%; 
-  background-color: rgb(5, 5, 210); 
+  background-color: rgb(224, 237, 255); 
 }
 
 li {
-  text-color: black;
+  color: black;
+  display: inline;
+  margin-right: 15%;
 }
 
 footer {
+  align-items: center;
+  color: white;
   background-color: rgb(5, 5, 210); 
   width: 100%;
+  height: 200px;
   align-items: center;
 }
 
 body {
   margin: 0;
-  background-color: rgb(216, 233, 255);
+  background-color: rgb(224, 237, 255);
 }
 
 .central{
@@ -27,13 +32,14 @@ body {
 }
 
 .card{
+    text-align: center;
     display: flex;
     width: 18%;
     flex-direction: column;
-    border: 2px dashed blue;
+    border: 10px outset rgb(45, 45, 253);
 }
 
-@media (min-width: 1140px) {
+@media (min-width: 600px) {
     .card-produto {
       width: 75%;
     }
@@ -58,7 +64,11 @@ body {
 }
 
 @media (max-width: 575px){
-  .upper-header{
-    min-height: 150px;
+  .header{
+    min-height: 15%;
+  }
+
+  body {
+    width: 100%;
   }
 }
