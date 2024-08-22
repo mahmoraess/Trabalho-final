@@ -5,6 +5,16 @@ header {
   background-color: rgb(5, 5, 210); 
 }
 
+li {
+  text-color: black;
+}
+
+footer {
+  background-color: rgb(5, 5, 210); 
+  width: 100%;
+  align-items: center;
+}
+
 body {
   margin: 0;
   background-color: rgb(216, 233, 255);

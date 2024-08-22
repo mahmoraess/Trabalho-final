@@ -9,7 +9,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9786558380542-228x228.jpg",
         capa: "capa flexível",
         editora: "Bertrand Brasil",
-        temas: [""]
+        temas: ["contemporâneo", "viagem no tempo"]
      },
      {
         nome: "Maxton Hall: Salve-me - edição com brinde",
@@ -18,7 +18,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9786585348966-228x228.jpg",
         capa: "capa dura",
         editora: "Alt",
-        temas: [""]
+        temas: ["superação", "amizade", "romance", "diferença social"]
      },
      {
         nome: "Mulheres que correm com os lobos",
@@ -27,7 +27,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9788532529787-228x228.jpg",
         capa: "capa flexível",
         editora: "Rocco",
-        temas: [""]
+        temas: ["mitos", "fantasia", "feminismo"]
      },
      {
         nome: "Melhor do que nos filmes",
@@ -36,7 +36,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9786555607284-228x228.jpg",
         capa: "capa flexível",
         editora: "Intrínseca",
-        temas: [""]
+        temas: ["romance", "amor", "luto", "amizade", "humor"]
      },
      {
         nome: "A empregada - Livro 1",
@@ -45,7 +45,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9786555655063-228x228.jpg",
         capa: "capa flexível",
         editora: "Arqueiro",
-        temas: [""]
+        temas: ["segredos", "poder", "psicologia", "mistério", "suspense"]
      },
      {
         nome: "Jantar secreto",
@@ -54,7 +54,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9788535928358-228x228.jpg",
         capa: "capa flexível",
         editora: "Companhia das Letras",
-        temas: [""]
+        temas: ["ética", "desigualdade social", "culpa", "violência", "ambição"]
      },
      {
         nome: "Verity (Edição de colecionador)",
@@ -63,7 +63,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9786559815043-228x228.jpg",
         capa: "capa dura",
         editora: "Galera",
-        temas: [""]
+        temas: ["manipulação", "segredos", "amor", "trauma"]
      },
      {
         nome: "Alice no País das Maravilhas (Classic Edition)",
@@ -72,7 +72,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9788594541758-228x228.jpg",
         capa: "capa dura",
         editora: "Darkside",
-        temas: [""]
+        temas: ["ação", "tempo", "autoridade", "sonho"]
      },
      {
         nome: "Em agosto nos vemos",
@@ -81,7 +81,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9788501920010-228x228.jpg",
         capa: "capa flexível",
         editora: "Record",
-        temas: [""]
+        temas: ["fantasma", "família", "culpa", "morte", "religião"]
      },
      {
         nome: "Quarta Asa",
@@ -90,7 +90,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9788542225853-228x228.jpg",
         capa: "capa flexível",
         editora: "Planeta Minotauro",
-        temas: [""]
+        temas: ["fantasia", "amor", "feminilidade", "dragão"]
      },
      {
         nome: "Noiva",
@@ -99,7 +99,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9786555656039-228x228.jpg",
         capa: "capa flexível",
         editora: "Arqueiro",
-        temas: [""]
+        temas: ["tragédia", "conflitos", "classe social"]
      },
      {
         nome: "Uma Família Feliz",
@@ -108,7 +108,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9788535937039-228x228.jpg",
         capa: "capa flexível",
         editora: "Companhia das Letras",
-        temas: [""]
+        temas: ["conflitos", "humor", "fantasia"]
      },
      {
         nome: "O Príncipe Cruel (Vol.1 O povo do ar)",
@@ -117,7 +117,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9788501115553-228x228.jpg",
         capa: "capa flexível",
         editora: "Galera",
-        temas: [""]
+        temas: ["fantasia", "poder", "amor", "traição"]
      },
      {
         nome: "Uma Vida Pequena",
@@ -126,7 +126,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9788501071545-228x228.jpg",
         capa: "capa flexível",
         editora: "Record",
-        temas: [""]
+        temas: ["trauma", "superação", "sofrimento", "amor"]
      },
      {
         nome: "Coraline",
@@ -135,7 +135,7 @@ export default function Produtos(){
         imagem: "https://leitura.com.br/image/cache/products/9788551006757-228x228.jpg",
         capa: "capa dura",
         editora: "Intrínseca",
-        temas: [""]
+        temas: ["coragem", "família", "medo", "consquências"]
      },
     ])
 

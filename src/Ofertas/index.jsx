@@ -36,7 +36,7 @@ export default function Ofertas () {
         imagem: "https://leitura.com.br/image/cache/products/9786555321814-228x228.jpg",
         capa: "capa flexível",
         editora: "Rocco",
-        temas: ["distopia", "suspense", ""]
+        temas: ["distopia", "suspense", "romance", "escolhas"]
      },
      {
         nome: "O Deus que destrói sonhos",
@@ -45,7 +45,7 @@ export default function Ofertas () {
         imagem: "https://leitura.com.br/image/cache/products/9786556891859-228x228.jpg",
         capa: "capa dura",
         editora: "Thomas Nelson Brasil",
-        temas: [""]
+        temas: ["Deus", "religião", "superação"]
      },
      {
         nome: "Tudo é rio",
