@@ -8,7 +8,7 @@ export default function Produtos(){
         preco: 42.46,
         imagem: "https://leitura.com.br/image/cache/products/9786558380542-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Bertrand Brasil"
      },
      {
         nome: "Maxton Hall: Salve-me - edição com brinde",
@@ -16,7 +16,7 @@ export default function Produtos(){
         preco: 54.90,
         imagem: "https://leitura.com.br/image/cache/products/9786585348966-228x228.jpg",
         capa: "capa dura",
-        editora: ""
+        editora: "Alt"
      },
      {
         nome: "Mulheres que correm com os lobos",
@@ -24,7 +24,7 @@ export default function Produtos(){
         preco: 64.05,
         imagem: "https://leitura.com.br/image/cache/products/9788532529787-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Rocco"
      },
      {
         nome: "Melhor do que nos filmes",
@@ -32,7 +32,7 @@ export default function Produtos(){
         preco: 46.29,
         imagem: "https://leitura.com.br/image/cache/products/9786555607284-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Intrínseca"
      },
      {
         nome: "A empregada - Livro 1",
@@ -40,7 +40,7 @@ export default function Produtos(){
         preco: 45.68,
         imagem: "https://leitura.com.br/image/cache/products/9786555655063-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Arqueiro"
      },
      {
         nome: "Jantar secreto",
@@ -48,7 +48,7 @@ export default function Produtos(){
         preco: 34.90,
         imagem: "https://leitura.com.br/image/cache/products/9788535928358-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Companhia das Letras"
      },
      {
         nome: "Verity (Edição de colecionador)",
@@ -56,7 +56,7 @@ export default function Produtos(){
         preco: 59.92,
         imagem: "https://leitura.com.br/image/cache/products/9786559815043-228x228.jpg",
         capa: "capa dura",
-        editora: ""
+        editora: "Galera"
      },
      {
         nome: "Alice no País das Maravilhas (Classic Edition)",
@@ -64,7 +64,7 @@ export default function Produtos(){
         preco: 44.22,
         imagem: "https://leitura.com.br/image/cache/products/9788594541758-228x228.jpg",
         capa: "capa dura",
-        editora: ""
+        editora: "Darkside"
      },
      {
         nome: "Em agosto nos vemos",
@@ -72,7 +72,7 @@ export default function Produtos(){
         preco: 51.22,
         imagem: "https://leitura.com.br/image/cache/products/9788501920010-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Record"
      },
      {
         nome: "Quarta Asa",
@@ -80,7 +80,7 @@ export default function Produtos(){
         preco: 84.64,
         imagem: "https://leitura.com.br/image/cache/products/9788542225853-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Planeta Minotauro"
      },
      {
         nome: "Noiva",
@@ -88,7 +88,7 @@ export default function Produtos(){
         preco: 51.21,
         imagem: "https://leitura.com.br/image/cache/products/9786555656039-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Arqueiro"
      },
      {
         nome: "Uma Família Feliz",
@@ -96,7 +96,7 @@ export default function Produtos(){
         preco: 51.21,
         imagem: "https://leitura.com.br/image/cache/products/9788535937039-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Companhia das Letras"
      },
      {
         nome: "O Príncipe Cruel (Vol.1 O povo do ar)",
@@ -104,7 +104,7 @@ export default function Produtos(){
         preco: 42.68,
         imagem: "https://leitura.com.br/image/cache/products/9788501115553-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Galera"
      },
      {
         nome: "Uma Vida Pequena",
@@ -112,7 +112,7 @@ export default function Produtos(){
         preco: 75.04,
         imagem: "https://leitura.com.br/image/cache/products/9788501071545-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Record"
      },
      {
         nome: "Coraline",
@@ -120,7 +120,7 @@ export default function Produtos(){
         preco: 52.36,
         imagem: "https://leitura.com.br/image/cache/products/9788551006757-228x228.jpg",
         capa: "capa dura",
-        editora: ""
+        editora: "Intrínseca"
      },
     ])
 

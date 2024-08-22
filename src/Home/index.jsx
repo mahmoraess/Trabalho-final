@@ -11,7 +11,8 @@ export default function Home () {
             preco: 49.99,
             imagem: "https://leitura.com.br/image/cache/products/9788501112514-228x228.jpg",
             capa: "capa flexível",
-            editora: "Galera"
+            editora: "Galera",
+            topicos: []
          },
          {
             nome: "Tarde Demais",
@@ -19,7 +20,8 @@ export default function Home () {
             preco: 49.99,
             imagem: "https://leitura.com.br/image/cache/products/9786559813858-228x228.jpg",
             capa: "capa flexível",
-            editora: "Galera"
+            editora: "Galera",
+            topicos: []
          },
          {
             nome: "Confesse",
@@ -27,7 +29,8 @@ export default function Home () {
             preco: 49.99,
             imagem: "https://leitura.com.br/image/cache/products/9788501109323-228x228.jpg",
             capa: "capa flexível",
-            editora: "Galera"
+            editora: "Galera",
+            topicos: []
          },
          {
             nome: "As Mil Partes do meu Coração",
@@ -35,8 +38,8 @@ export default function Home () {
             preco: 49.99,
             imagem: "https://leitura.com.br/image/cache/products/9788501115744-228x228.jpg",
             capa: "capa flexível",
-            editora: "Galera"
-
+            editora: "Galera",
+            topicos: []
          },
          {
             nome: "O lado feio do amor",
@@ -44,7 +47,8 @@ export default function Home () {
             preco: 49.99,
             imagem: "https://leitura.com.br/image/cache/products/9788501105738-228x228.jpg",
             capa: "capa flexível",
-            editora: "Galera"
+            editora: "Galera",
+            topicos: []
          }
         ])
     

@@ -8,7 +8,8 @@ export default function Ofertas () {
         preco: 25.00,
         imagem: "https://leitura.com.br/image/cache/products/9786555320350-228x228.jpg",
         capa: "capa flexível",
-        editora: "Galera"
+        editora: "Galera",
+        topicos: []
      },
      {
         nome: "A Garota do Lago",
@@ -16,7 +17,7 @@ export default function Ofertas () {
         preco: 19.99,
         imagem: "https://leitura.com.br/image/cache/products/9788562409882-500x500.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Faro Editorial"
      },
      {
         nome: "100 motivos para te amar",
@@ -24,7 +25,7 @@ export default function Ofertas () {
         preco: 35.55,
         imagem: "https://leitura.com.br/image/cache/products/9788582306352-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Matrix"
      },
      {
         nome: "Divergente",
@@ -32,7 +33,7 @@ export default function Ofertas () {
         preco: 37.93,
         imagem: "https://leitura.com.br/image/cache/products/9786555321814-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Rocco"
      },
      {
         nome: "O Deus que destrói sonhos",
@@ -40,7 +41,7 @@ export default function Ofertas () {
         preco: 31.87,
         imagem: "https://leitura.com.br/image/cache/products/9786556891859-228x228.jpg",
         capa: "capa dura",
-        editora: ""
+        editora: "Thomas Nelson Brasil"
      },
      {
         nome: "Tudo é rio",
@@ -48,7 +49,7 @@ export default function Ofertas () {
         preco: 40.00,
         imagem: "https://leitura.com.br/image/cache/products/9786555871784-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Record"
      },
      {
         nome: "Os sete maridos de Evelyn Hugo",
@@ -56,7 +57,7 @@ export default function Ofertas () {
         preco: 32.21,
         imagem: "https://leitura.com.br/image/cache/products/9788584391509-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Paralela"
      },
      {
         nome: "Vermelho, branco e sangue azul",
@@ -64,7 +65,7 @@ export default function Ofertas () {
         preco: 35.78,
         imagem: "https://leitura.com.br/image/cache/products/9788555340949-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Seguinte"
      },
      {
         nome: "O homem mais rico da Babilônia",
@@ -72,7 +73,7 @@ export default function Ofertas () {
         preco: 25.05,
         imagem: "https://leitura.com.br/image/cache/products/9788595081536-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "HarperCollins"
      },
      {
         nome: "A revolução dos bichos",
@@ -80,7 +81,7 @@ export default function Ofertas () {
         preco: 15.22,
         imagem: "https://leitura.com.br/image/cache/products/9788535909555-228x228.jpg",
         capa: "capa flexível",
-        editora: ""
+        editora: "Companhia das Letras"
      }
     ])
 
