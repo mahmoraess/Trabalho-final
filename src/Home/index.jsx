@@ -77,7 +77,12 @@ export default function Home () {
                     <img src="https://leitura.com.br/image/cache/catalog/BANNER-VALE-PRESENTE-PNG33-1920x300.png"></img>
                 </div>
             </Carousel>
-            <h1>Collen Hoover</h1>
+
+            <div class="titulo">
+                <h1>Catálogo Livraria Moraes</h1>
+                <h3>Collen Hoover</h3>
+            </div>
+
             <ListarProdutos listaProdutos={produtos}/>
             <Footer/>
         </>

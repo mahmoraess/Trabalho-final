@@ -56,7 +56,7 @@ export default function Ofertas () {
         imagem: "https://leitura.com.br/image/cache/products/9786555871784-228x228.jpg",
         capa: "capa flexível",
         editora: "Record",
-        temas: [""]
+        temas: ["autoconhecimento", "transformação", "espiritualidade"]
      },
      {
         nome: "Os sete maridos de Evelyn Hugo",
@@ -65,7 +65,7 @@ export default function Ofertas () {
         imagem: "https://leitura.com.br/image/cache/products/9788584391509-228x228.jpg",
         capa: "capa flexível",
         editora: "Paralela",
-        temas: [""]
+        temas: ["fama", "identidade", "amor"]
      },
      {
         nome: "Vermelho, branco e sangue azul",
@@ -74,7 +74,7 @@ export default function Ofertas () {
         imagem: "https://leitura.com.br/image/cache/products/9788555340949-228x228.jpg",
         capa: "capa flexível",
         editora: "Seguinte",
-        temas: [""]
+        temas: ["romance", "política", "aceitação"]
      },
      {
         nome: "O homem mais rico da Babilônia",
@@ -83,7 +83,7 @@ export default function Ofertas () {
         imagem: "https://leitura.com.br/image/cache/products/9788595081536-228x228.jpg",
         capa: "capa flexível",
         editora: "HarperCollins",
-        temas: [""]
+        temas: ["economia", "investimento", "gestão de dívidas"]
      },
      {
         nome: "A revolução dos bichos",
@@ -92,7 +92,7 @@ export default function Ofertas () {
         imagem: "https://leitura.com.br/image/cache/products/9788535909555-228x228.jpg",
         capa: "capa flexível",
         editora: "Companhia das Letras",
-        temas: [""]
+        temas: ["totalitarismo", "desigualdade", "poder"]
      }
     ])
 

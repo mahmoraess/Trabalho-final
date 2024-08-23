@@ -6,9 +6,17 @@ header {
 }
 
 li {
-  color: black;
+  color: yellow;
   display: inline;
-  margin-right: 15%;
+  margin-right: 30%;
+}
+
+.titulo {
+  background-color: yellow;
+  margin-left: 33%;
+  margin-right: 33%;
+  text-align: center;
+  color: blue;
 }
 
 footer {
